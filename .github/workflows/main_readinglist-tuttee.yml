@@ -52,4 +52,4 @@ jobs:
           app-name: 'readinglist-tuttee'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44ED819AC557414BB223D5F4EBF0E58C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E52588003726498486E12DA7928DD348 }}
